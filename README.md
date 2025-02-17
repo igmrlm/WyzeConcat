@@ -10,3 +10,8 @@ Usage:
 Dependancies: natsort, tkinter, threading, subprocess.
 
 FFMPEG Must be in your shell path. 
+
+
+TODO:
+
+Update the script to indentify videos with 0 filesize and omit them as they currently must be manually deleted otherwise they will cause ffmpeg to crash
