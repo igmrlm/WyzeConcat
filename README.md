@@ -2,5 +2,6 @@ A simple script that opens a gui window for concatening wyze camera videos witho
 
 Usage: python concat.py
 
-Dependancies: natsort, tkinter, threading, subprocess
+Dependancies: natsort, tkinter, threading, subprocess.
+
 FFMPEG Must be in your shell path. 
